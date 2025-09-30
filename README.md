@@ -1,8 +1,8 @@
 # Binary Classification with Neural Networks on the Census Income Dataset
 
-# NAME :MURALI S
+# NAME :Naveen Raja N R
 
-# REG NO: 212222230088
+# REG NO: 212222230093
 
 # Requirements:
 ```
@@ -104,8 +104,8 @@ Reported loss and accuracy.
 # Program:
 ```
 
-print("Name: MURALI S")
-print("Register No: 212222230088\n")
+print("Name: Naveen Raja N R")
+print("Register No: 212222230093\n")
 ```
 ```
 #1. Imports
@@ -123,8 +123,8 @@ import matplotlib.pyplot as plt
 # 2. Load Data
 
 df = pd.read_csv("income (1).csv")
-print('Name:MURALI S')
-print('Register Number: 212222230088')
+print('Name:Naveen Raja N R')
+print('Register Number: 212222230093')
 print("Dataset shape:", df.shape)
 print(df.head())
 
